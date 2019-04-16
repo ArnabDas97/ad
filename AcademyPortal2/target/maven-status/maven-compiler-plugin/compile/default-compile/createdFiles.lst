@@ -1,0 +1,14 @@
+com\pack\entity\FacultyRegistration.class
+com\pack\controller\AdminController.class
+com\pack\entity\AdminDetails.class
+com\pack\service\AdminService.class
+com\pack\entity\Report.class
+com\pack\entity\SkillMaster.class
+com\pack\service\AdminServiceImpl.class
+com\pack\entity\BatchAllocation.class
+com\pack\entity\BatchUpdate.class
+com\pack\entity\Login.class
+com\pack\dao\AdminDaoImpl.class
+com\pack\entity\Module.class
+com\pack\dao\AdminDao.class
+com\pack\entity\BatchAllocate.class
